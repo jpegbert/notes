@@ -1,0 +1,14 @@
+机器学习AI算法工程:
+阿里妈妈搜索广告转化预测         
+https://github.com/SmirkCao/tianchi-IJCAI-18
+
+
+机器学习AI算法工程:
+GBDT、FM、FFM和DNN融合构建广告点击率预测模型
+https://github.com/chengstone/kaggle_criteo_ctr_challenge-
+
+
+机器学习AI算法工程:
+2019腾讯广告算法初赛第一名的模型
+https://github.com/guoday/Tencent2019_Preliminary_Rank1st
+
